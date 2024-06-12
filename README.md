@@ -1,10 +1,11 @@
 By Naq
 
-Update : 1.4 !
+Update : 1.5 !
 
 Telegram : https://t.me/NaqPriv
 
-7Slay : ![image](https://github.com/ALPHA7Back/7Slaytool/assets/163157882/49880634-9163-4a50-ba31-fcecd5d707a1)
+7Slay : ![image](https://github.com/ALPHA7Back/7Slaytool/assets/163157882/5f8ef6d0-8ed5-4cf3-9d2d-11ba87f56bb9)
+
 
 
 
